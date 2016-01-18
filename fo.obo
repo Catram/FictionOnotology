@@ -1,0 +1,14 @@
+format-version: 1.2
+date: 18:01:2016 07:17
+saved-by: mys_721tx
+auto-generated-by: OBO-Edit 2.3.1
+default-namespace: fiction_onotology
+ontology: fo
+
+[Term]
+id: FO:0000001
+name: universe
+namespace: universe
+def: "The totality of events and elements in a self-consistent faction setting." []
+creation_date: 2016-01-18T06:58:16Z
+
